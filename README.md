@@ -38,5 +38,5 @@ I'm an aspiring programmer and game developer. I'm interested in linux, and occa
 </a>
 
 <div align="center">
-    <img src="https://github-stats-pi-eight.vercel.app/api/top-langs?username=manenbranta&show_icons=true&locale=en&layout=donut&count_private=true&exclude_repo=github-stats&hide=html&theme=auradark" alt="Account Top Languages"/>
+    <img src="https://github-stats-pi-eight.vercel.app/api/top-langs?username=manenbranta&show_icons=true&locale=en&layout=donut&count_private=true&exclude_repo=github-stats&hide=html&theme=aura_dark" alt="Account Top Languages"/>
 </div>
