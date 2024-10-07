@@ -36,3 +36,7 @@ I'm an aspiring programmer and game developer. I'm interested in linux, and occa
 <a href="https://getbootstrap.com" target="_blank">
     <img alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-512BD4?style=for-the-badge&logo=bootstrap&logoColor=white'/>
 </a>
+
+<div align="center">
+    <img src="https://github-stats-pi-eight.vercel.app/api/top-langs?username=manenbranta&show_icons=true&locale=en&layout=donut&count_private=true&exclude_repo=github-stats&theme=aura-dark" alt="Account Top Languages"/>
+</div>
