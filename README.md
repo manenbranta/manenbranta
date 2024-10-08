@@ -39,6 +39,8 @@ I'm an aspiring programmer and game developer. I'm interested in linux, and occa
 
 <br>
 
+<h2>Github Stats</h2>
 <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Chloe's Github Stats" src="https://github-stats-pi-eight.vercel.app/api?username=manenbranta&show_icons=true&count_private=true&theme=aura_dark"/></a>
     <img src="https://github-stats-pi-eight.vercel.app/api/top-langs?username=manenbranta&show_icons=true&locale=en&layout=donut&count_private=true&exclude_repo=github-stats&hide=html&theme=aura_dark" alt="Account Top Languages"/>
 </div>
